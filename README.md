@@ -7,6 +7,8 @@ I build workflow automation, internal business applications, APIs, data platform
 ## Public work
 
 - [BlackLabel Tech](https://blacklabeltec.com/) — canonical company site
+- [Free public resources](FREE.md) — tools, checklists, templates, and prompt
+  packs published on GitHub
 - [Company facts](https://blacklabeltec.com/company/facts) — verified organization, category, location, service area, and product facts
 - [Products](https://blacklabeltec.com/products) — current public software catalog
 - [Case studies](https://blacklabeltec.com/case-studies) — build records, failures, status, and disclosed evidence
