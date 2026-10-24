@@ -29,6 +29,16 @@ Label Tech.
 - [ConMon Kit](https://github.com/mthburnsbarber-web/conmon-kit)
   runs the monthly FedRAMP or GovRAMP scans with free scanners and writes the
   raw results, a summary report, and a POA&M that keeps IDs and deadlines.
+- [Wow UI](https://github.com/mthburnsbarber-web/wow-ui)
+  is the interface standard behind our products, with the zero-dependency
+  CSS/JS kit that implements it, a linter that fails flat UI, and a
+  contact-sheet tool. [Live demo](https://mthburnsbarber-web.github.io/wow-ui/demo/).
+- [gated-mcp](https://github.com/mthburnsbarber-web/gated-mcp)
+  is a one-file MCP server kit for Node: tools that delete, send, pay or
+  deploy stay off and answer with a dry run until you turn them on.
+- [done-gate](https://github.com/mthburnsbarber-web/done-gate)
+  gives fail-closed release verdicts: every claim is bound to the SHA-256 of
+  the package you ship, so a rebuild voids old evidence by itself.
 
 ## Templates
 
