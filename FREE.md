@@ -39,6 +39,17 @@ Label Tech.
 - [done-gate](https://github.com/mthburnsbarber-web/done-gate)
   gives fail-closed release verdicts: every claim is bound to the SHA-256 of
   the package you ship, so a rebuild voids old evidence by itself.
+- [agent-history](https://github.com/mthburnsbarber-web/agent-history)
+  keeps and searches every Claude Code and Codex conversation on your
+  machine: exact-byte snapshots before the 30-day cleanup, full-text search,
+  secrets redacted.
+- [reachability-gate](https://github.com/mthburnsbarber-web/reachability-gate)
+  fails the build when an action is registered in code but nothing a person
+  can click, press or pick reaches it. Presets for action buses, VS Code
+  extensions and Electron apps.
+- [axdrive](https://github.com/mthburnsbarber-web/axdrive)
+  drives any Mac app by what its controls say, through the Accessibility
+  tree, without touching the mouse. For UI tests and AI agents.
 
 ## Templates
 
