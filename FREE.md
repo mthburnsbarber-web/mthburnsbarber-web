@@ -14,12 +14,22 @@ Label Tech.
   compares the running macOS app to the candidate artifact you built.
 - [DKIM Doctor](https://github.com/mthburnsbarber-web/dkim-doctor)
   checks SPF, DKIM, and DMARC DNS health for sending domains.
+- [Worker Version Verify](https://github.com/mthburnsbarber-web/worker-version-verify)
+  proves the Cloudflare Worker version you are about to deploy matches what
+  you meant to build: code byte for byte, bindings, and settings.
+- [Polite Fetch](https://github.com/mthburnsbarber-web/polite-fetch)
+  fetches the web like a guest for crawlers and AI agents: robots.txt,
+  per-host pacing, shared-infrastructure queues, and back-off on challenges.
+- [Brand From URL](https://github.com/mthburnsbarber-web/brand-from-url)
+  reads an organization's colors, logo, hero photo, and fonts from its
+  homepage, and flags white logos and blank "photos" before they ship.
 
 ## Templates
 
 - White-label release checklist.
 - Forbidden brand terms file.
 - macOS stale-binary release checklist.
+- Cloudflare Worker release checklist.
 - DNS sending-domain checklist.
 - AI-search audit prompt panel.
 - Evidence-claim checklist.
