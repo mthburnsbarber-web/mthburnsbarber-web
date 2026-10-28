@@ -4,6 +4,15 @@ Founder of [BlackLabel Tech](https://blacklabeltec.com/michael-barber), a Gulf S
 
 I build workflow automation, internal business applications, APIs, data platforms, native software, and the operating infrastructure behind BlackLabel's public product network.
 
+## Start here
+
+- **Study with AI:** [81 subject-specific study guides](https://github.com/mthburnsbarber-web/ai-study-prompts). Pick a field and start with its practice prompts.
+- **Keep your coding-agent work:** [agent-history](https://github.com/mthburnsbarber-web/agent-history). Read the setup and privacy notes before importing local conversations.
+- **Check a Mac release:** [cdhash-verify](https://github.com/mthburnsbarber-web/cdhash-verify). Compare the installed app with the artifact you built.
+- **See the products:** [Black Label demonstrations](https://www.youtube.com/@blacklabeltec) · [Try Ace](https://tryacee.com/?utm_source=github&utm_medium=profile&utm_campaign=visibility).
+
+[Follow the build notes on Substack](https://michaelbarbertech.substack.com/).
+
 ## Public work
 
 - [BlackLabel Tech](https://blacklabeltec.com/) — canonical company site
