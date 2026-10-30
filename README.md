@@ -7,6 +7,8 @@ I build workflow automation, internal business applications, APIs, data platform
 ## Start here
 
 - **Study with AI:** [Try a complete first session](https://github.com/mthburnsbarber-web/ai-study-prompts/blob/main/guides/first-session.md), then choose from [81 subject-specific guides](https://github.com/mthburnsbarber-web/ai-study-prompts).
+- **Watch Ace in use:** [See the notes and flashcard review](https://github.com/mthburnsbarber-web/ai-study-prompts/blob/main/guides/ace-notes-review.md) in a short product recording.
+- **Research a startup launch:** [Browse 640 startup resources, launch platforms, and press destinations](https://github.com/mthburnsbarber-web/startup-business-resources).
 - **Keep your coding-agent work:** [agent-history](https://github.com/mthburnsbarber-web/agent-history). Read the setup and privacy notes before importing local conversations.
 - **Check a Mac release:** [cdhash-verify](https://github.com/mthburnsbarber-web/cdhash-verify). Compare the installed app with the artifact you built.
 - **See the products:** [Black Label demonstrations](https://www.youtube.com/@blacklabeltec) · [Try Ace](https://tryacee.com/?utm_source=github&utm_medium=profile&utm_campaign=visibility).
